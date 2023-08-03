@@ -6,3 +6,4 @@ Task4. Writing a Display current directory contents, including hidden files (sta
 Task5. Writing a Display current directory contents.
 Task6. Writing a script that creates a directory.
 Task7. Moving the file betty from one directory to another.
+Task8. Deleting the file betty.
