@@ -10,3 +10,4 @@ Task8. Deleting the file betty.
 Task9. Deleting a directory from another directory.
 Task10.Writing  a script that changes the working directory to the previous one.
 Task11.Writing a script that lists all files in the current directory and the parent of the working directory.
+Task12.Writing a script that prints the type of the file named i am a file.
