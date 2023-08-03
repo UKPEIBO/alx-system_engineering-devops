@@ -7,4 +7,5 @@ Task5. Writing a Display current directory contents.
 Task6. Writing a script that creates a directory.
 Task7. Moving the file betty from one directory to another.
 Task8. Deleting the file betty.
-Task9. Deleting a directory from another directory
+Task9. Deleting a directory from another directory.
+Task10.Writing  a script that changes the working directory to the previous one.
