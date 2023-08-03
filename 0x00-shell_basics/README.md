@@ -11,3 +11,4 @@ Task9. Deleting a directory from another directory.
 Task10.Writing  a script that changes the working directory to the previous one.
 Task11.Writing a script that lists all files in the current directory and the parent of the working directory.
 Task12.Writing a script that prints the type of the file named i am a file.
+Task13.Creating a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
