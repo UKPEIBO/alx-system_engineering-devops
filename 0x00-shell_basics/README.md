@@ -4,3 +4,4 @@ Task2. Writing a script that changes the working directory to the home directory
 Task3. Writing a script to Display the  current directory contents in a long format.
 Task4. Writing a Display current directory contents, including hidden files (starting with .). Using the long format.
 Task5. Writing a Display current directory contents.
+Task6. Writing a script that creates a directory.
