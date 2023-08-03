@@ -14,6 +14,7 @@ Task12. Writing a script that prints the type of the file named i am a file.
 Task13. Creating a symbolic link to bin ls, named ls. The symbolic link should be created in the current working directory.
 Task14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory.
 Task15. Create a script that moves all files beginning with an uppercase letter to the directory tmp u.
-Task16. Create a script that deletes all files in the current working directory that end with the character 
+Task16. Create a script that deletes all files in the current working directory that end with the character. 
 Task17. Create a script that creates the directories welcome, welcome to and welcome to school in the current directory.
-Task18. Write a command that lists all the files and directories of the current directory, separated by commas. 
+Task18. Write a command that lists all the files and directories of the current directory, separated by commas.
+Task19. Create a magic file school.mgc that can be used with the command file to detect School data files. 
